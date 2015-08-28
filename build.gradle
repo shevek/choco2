@@ -8,23 +8,33 @@ group = "org.anarres.mirrors.choco"
 ext.githubProjectName = name
 
 apply plugin: 'maven'
+apply plugin: 'signing'
 apply from: file('gradle/nexus.gradle')
+
+task copyLibs(type: Sync) {
+	into "build/libs"
+	from "lib"
+}
 
 artifacts {
 	// name, extension, type, classifier, date, file, tasks
 	archives new DefaultPublishArtifact(
 				"choco", "jar", "jar",
 				null,
-				new Date(), project.file('lib/choco-2.1.3.jar'),
-				[]);
+				new Date(), project.file('build/libs/choco-2.1.3.jar'),
+				[copyLibs]);
 	archives new DefaultPublishArtifact(
 				"choco", "jar", "jar",
 				"javadoc",
-				new Date(), project.file('lib/choco-2.1.3-javadoc.jar'),
-				[]);
+				new Date(), project.file('build/libs/choco-2.1.3-javadoc.jar'),
+				[copyLibs]);
 	archives new DefaultPublishArtifact(
 				"choco", "jar", "jar",
 				"sources",
-				new Date(), project.file('lib/choco-2.1.3-src.jar'),
-				[]);
+				new Date(), project.file('build/libs/choco-2.1.3-sources.jar'),
+				[copyLibs]);
+}
+
+wrapper {
+	gradleVersion = 2.6
 }
