@@ -22,7 +22,6 @@
 					email 'github@anarres.org'
 				}
 			}
-			/*
 			licenses {
 				license {
 					name 'The Apache Software License, Version 2.0'
@@ -40,6 +39,5 @@
 				system 'github'
 				url "https://github.com/shevek/${rootProject.githubProjectName}/issues"
 			}
-			*/
 		}
 	}
