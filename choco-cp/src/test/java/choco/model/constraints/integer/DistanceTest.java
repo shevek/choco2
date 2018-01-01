@@ -52,7 +52,7 @@ import java.util.logging.Logger;
 /**
  * Created by IntelliJ IDEA.
  * User: hcambaza
- * Date: 23 f�vr. 2007
+ * Date: 23 fevr 2007
  * Time: 16:00:01
  */
 public class DistanceTest {

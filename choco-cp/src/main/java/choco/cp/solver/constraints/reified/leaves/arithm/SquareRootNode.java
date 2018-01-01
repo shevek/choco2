@@ -33,7 +33,7 @@ import choco.kernel.solver.constraints.reified.NodeType;
 
 /**
  * User:    charles
- * Date:    20 août 2008
+ * Date:    20 aout 2008
  *
  * A node for integer square root, but too much roundy...
  */

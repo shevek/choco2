@@ -34,7 +34,7 @@ import choco.kernel.solver.variables.scheduling.IRTask;
  * 
  * The interface represents the classical filtering rules for an unary resource.
  * @author Arnaud Malapert</br> 
- * @since 23 févr. 2009 version 2.0.3</br>
+ * @since 23 fevr 2009 version 2.0.3</br>
  * @version 2.0.3</br>
  */
 public interface IDisjRules {

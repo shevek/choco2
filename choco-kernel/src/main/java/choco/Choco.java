@@ -77,7 +77,7 @@ import static java.lang.System.arraycopy;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 6 août 2008
+ * Date: 6 aout 2008
  * Time: 16:08:55
  * <p/>
  * This class must contain every current variable constructors and constraint constructors.

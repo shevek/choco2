@@ -47,7 +47,7 @@ import java.util.List;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 8 août 2008
+ * Date: 8 aout 2008
  * Time: 19:38:51
  */
 public final class GeostManager extends IntConstraintManager {

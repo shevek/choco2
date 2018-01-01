@@ -41,7 +41,7 @@ import java.util.List;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 11 août 2008
+ * Date: 11 aout 2008
  * Time: 13:09:07
  */
 public final class DisjunctionManager extends SetConstraintManager{

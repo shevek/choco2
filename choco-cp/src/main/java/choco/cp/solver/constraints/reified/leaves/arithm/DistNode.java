@@ -41,7 +41,7 @@ import static java.lang.Math.*;
 /*
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 5 août 2008
+ * Date: 5 aout 2008
  * Since : Choco 2.0.0
  *
  */

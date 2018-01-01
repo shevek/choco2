@@ -47,7 +47,7 @@ import static choco.kernel.common.util.tools.VariableUtils.getSetVar;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 8 août 2008
+ * Date: 8 aout 2008
  * Time: 20:08:04
  */
 public final class PackManager extends MixedConstraintManager {

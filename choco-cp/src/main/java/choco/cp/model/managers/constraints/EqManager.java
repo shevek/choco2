@@ -63,7 +63,7 @@ import static choco.kernel.model.constraints.ConstraintType.*;
 
 /*
  * User:    charles
- * Date:    22 août 2008
+ * Date:    22 aout 2008
  */
 public final class EqManager extends MixedConstraintManager {
 

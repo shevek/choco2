@@ -52,7 +52,7 @@ import java.util.Iterator;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 8 août 2008
+ * Date: 8 aout 2008
  * Time: 10:14:01
  */
 public final class IntegerVariableManager implements VariableManager<IntegerVariable> {

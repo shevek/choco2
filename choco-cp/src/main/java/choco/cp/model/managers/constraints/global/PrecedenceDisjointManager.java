@@ -38,7 +38,7 @@ import choco.kernel.solver.variables.scheduling.TaskVar;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 11 août 2008
+ * Date: 11 aout 2008
  * Time: 16:49:22
  */
 public final class PrecedenceDisjointManager extends AbstractPrecedenceManager {

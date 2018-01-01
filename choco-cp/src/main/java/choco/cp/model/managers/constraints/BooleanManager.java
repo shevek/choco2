@@ -43,7 +43,7 @@ import java.util.List;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 11 août 2008
+ * Date: 11 aout 2008
  * Time: 13:00:17
  */
 public final class BooleanManager extends ConstraintManager<Variable> {

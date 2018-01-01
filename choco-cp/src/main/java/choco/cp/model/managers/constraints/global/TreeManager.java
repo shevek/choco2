@@ -47,7 +47,7 @@ import java.util.Set;
 
 /**
  * User:    charles
- * Date:    26 août 2008
+ * Date:    26 aout 2008
  */
 public final class TreeManager extends ConstraintManager<Variable> {
 

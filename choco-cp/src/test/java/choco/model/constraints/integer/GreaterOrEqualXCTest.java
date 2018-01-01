@@ -25,7 +25,7 @@
  *  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-/* File choco.currentElement.search.GreaterOrEqualXCTest.java, last modified by Francois 23 ao�t 2003:17:40:29 */
+/* File choco.currentElement.search.GreaterOrEqualXCTest.java, last modified by Francois 23 aout 2003:17:40:29 */
 package choco.model.constraints.integer;
 
 import choco.Options;

@@ -44,7 +44,7 @@ import choco.kernel.solver.constraints.reified.INode;
 import java.util.List;
 
 /* User:    charles
- * Date:    20 août 2008
+ * Date:    20 aout 2008
  */
 public final class MultManager extends RealConstraintManager implements ExpressionManager {
 

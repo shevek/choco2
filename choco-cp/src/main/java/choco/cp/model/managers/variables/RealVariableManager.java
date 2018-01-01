@@ -44,7 +44,7 @@ import choco.kernel.solver.variables.real.RealVar;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 8 août 2008
+ * Date: 8 aout 2008
  * Time: 13:36:45
  */
 public final class RealVariableManager implements VariableManager<RealVariable> {

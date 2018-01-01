@@ -44,7 +44,7 @@ import java.util.logging.Logger;
 
 /**
  * @author Arnaud Malapert</br> 
- * @since 5 févr. 2009 version 2.0.3</br>
+ * @since 5 fevr 2009 version 2.0.3</br>
  * @version 2.0.3</br>
  */
 public class StoredBipartiteListTest {

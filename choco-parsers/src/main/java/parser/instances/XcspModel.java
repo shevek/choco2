@@ -86,7 +86,7 @@ class ParserWrapper implements InstanceFileParser {
 }
 /**
  * User:    charles
- * Date:    19 août 2008
+ * Date:    19 aout 2008
  * <p/>
  * A class to provide facilities for loading and solving
  * CSP described in the xml format of the 2008 competition

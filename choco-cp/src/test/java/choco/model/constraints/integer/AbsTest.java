@@ -47,7 +47,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * Created by IntelliJ IDEA.
  * User: hcambaza
- * Date: 2 f�vr. 2007
+ * Date: 2 fevr 2007
  * Time: 10:25:57
  * To change this template use File | Settings | File Templates.
  */

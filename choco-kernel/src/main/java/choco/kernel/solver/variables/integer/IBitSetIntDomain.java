@@ -32,7 +32,7 @@ import choco.kernel.memory.IStateBitSet;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 9 févr. 2009
+* Date : 9 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 */

@@ -38,7 +38,7 @@ import choco.kernel.solver.variables.integer.IntDomainVar;
 /*
  * Created by IntelliJ IDEA.
  * User: hcambaza
- * Date: 23 f�vr. 2007
+ * Date: 23 fevr 2007
  * Since : Choco 2.0.0
  *
  */

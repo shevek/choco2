@@ -36,7 +36,7 @@ import choco.kernel.model.variables.integer.IntegerVariable;
 
 /*
  * User:    charles
- * Date:    26 août 2008
+ * Date:    26 aout 2008
  */
 public class TreeParametersObject extends MultipleVariables {
 

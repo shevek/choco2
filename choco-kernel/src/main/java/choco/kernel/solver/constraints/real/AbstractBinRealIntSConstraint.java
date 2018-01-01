@@ -35,7 +35,7 @@ import choco.kernel.solver.variables.real.RealVar;
 /* 
  * Created by IntelliJ IDEA.
  * User: FLABURTHE
- * Date: 19 ao�t 2005
+ * Date: 19 aout 2005
  * Since : Choco 2.0.0
  *
  */

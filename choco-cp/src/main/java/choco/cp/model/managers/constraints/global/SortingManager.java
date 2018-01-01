@@ -40,7 +40,7 @@ import java.util.List;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 11 août 2008
+ * Date: 11 aout 2008
  * Time: 10:34:02
  */
 public final class SortingManager extends IntConstraintManager {

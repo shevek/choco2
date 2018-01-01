@@ -32,7 +32,7 @@ import org.junit.Ignore;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 4 août 2009
+* Date : 4 aout 2009
 * Since : Choco 2.1.0
 * Update : Choco 2.1.0
 */

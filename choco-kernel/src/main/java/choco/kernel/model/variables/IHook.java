@@ -30,7 +30,7 @@ package choco.kernel.model.variables;
 /**
  * a hook is an integer field to attach temporary information about a given variable or constraint.
  * @author Arnaud Malapert</br> 
- * @since 5 août 2009 version 2.1.1</br>
+ * @since 5 aout 2009 version 2.1.1</br>
  * @version 2.1.1</br>
  */
 public interface IHook {

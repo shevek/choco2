@@ -54,7 +54,7 @@ import java.util.logging.Logger;
 /**
  * Created by IntelliJ IDEA.
  * User: grochart
- * Date: 26 ao?t 2003
+ * Date: 26 aout 2003
  * Time: 17:10:01
  * To change this template use Options | File Templates.
  */

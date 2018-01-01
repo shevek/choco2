@@ -47,7 +47,7 @@ import java.util.Arrays;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 6 août 2008
+ * Date: 6 aout 2008
  * Time: 16:08:55
  *
  * This class must contain every deprecated method of the Choco class.

@@ -38,7 +38,7 @@ import org.junit.Test;
 
 /**
  * User:    charles
- * Date:    21 août 2008
+ * Date:    21 aout 2008
  */
 public class ExpressionConstraintTest {
 

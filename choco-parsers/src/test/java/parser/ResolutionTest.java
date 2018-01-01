@@ -44,7 +44,7 @@ import java.util.logging.Logger;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 12 févr. 2009
+* Date : 12 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 */

@@ -44,7 +44,7 @@ import java.util.List;
 
 /**
  * User:    charles
- * Date:    22 août 2008
+ * Date:    22 aout 2008
  */
 public final class OrManager extends IntConstraintManager {
 

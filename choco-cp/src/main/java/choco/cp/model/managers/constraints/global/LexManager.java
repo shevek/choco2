@@ -44,7 +44,7 @@ import static choco.kernel.model.constraints.ConstraintType.LEXEQ;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 11 août 2008
+ * Date: 11 aout 2008
  * Time: 10:11:23
  */
 public final class LexManager extends IntConstraintManager {

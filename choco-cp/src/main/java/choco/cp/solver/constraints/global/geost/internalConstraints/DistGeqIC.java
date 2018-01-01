@@ -41,7 +41,7 @@ import java.util.logging.Logger;
 /**
  * Created by IntelliJ IDEA.
  * User: szampelli
- * Date: 4 f?vr. 2009
+ * Date: 4 fevr 2009
  * Time: 10:11:25
  * To change this template use File | Settings | File Templates.
  */

@@ -39,7 +39,7 @@ import java.util.*;
 
 /*
  * User:    charles
- * Date: 8 août 2008
+ * Date: 8 aout 2008
  */
 public abstract class ComponentVariable extends AbstractVariable {
 

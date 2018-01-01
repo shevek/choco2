@@ -42,7 +42,7 @@ import org.junit.Test;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 10 févr. 2009
+* Date : 10 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 */

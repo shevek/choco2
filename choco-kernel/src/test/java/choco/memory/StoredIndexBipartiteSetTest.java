@@ -39,7 +39,7 @@ import java.util.Random;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 23 févr. 2009
+* Date : 23 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 */

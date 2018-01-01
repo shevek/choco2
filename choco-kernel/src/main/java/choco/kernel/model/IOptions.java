@@ -33,7 +33,7 @@ import java.util.Set;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 26 févr. 2009
+* Date : 26 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 *

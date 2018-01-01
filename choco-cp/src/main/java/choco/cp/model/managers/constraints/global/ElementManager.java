@@ -52,7 +52,7 @@ import java.util.List;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 9 août 2008
+ * Date: 9 aout 2008
  * Time: 16:25:12
  */
 public final class ElementManager extends IntConstraintManager{

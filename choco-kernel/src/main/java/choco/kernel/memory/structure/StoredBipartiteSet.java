@@ -43,7 +43,7 @@ import java.util.Comparator;
 
 /**
  * @author Arnaud Malapert</br> 
- * @since 10 févr. 2009 version 2.0.3</br>
+ * @since 10 fevr 2009 version 2.0.3</br>
  * @version 2.0.3</br>
  * @param <E>
  */

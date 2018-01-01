@@ -45,7 +45,7 @@ import org.junit.Test;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 12 août 2008
+ * Date: 12 aout 2008
  * Time: 11:31:25
  */
 public class EqTest {

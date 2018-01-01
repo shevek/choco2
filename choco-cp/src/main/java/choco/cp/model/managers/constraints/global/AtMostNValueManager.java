@@ -40,7 +40,7 @@ import java.util.List;
 /**
  * Created by IntelliJ IDEA.
  * User: charles
- * Date: 11 août 2008
+ * Date: 11 aout 2008
  * Time: 15:26:22
  */
 public final class AtMostNValueManager extends IntConstraintManager {

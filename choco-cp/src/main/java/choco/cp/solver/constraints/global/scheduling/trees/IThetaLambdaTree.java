@@ -33,7 +33,7 @@ import choco.kernel.solver.variables.scheduling.ITask;
 
 /**
  * @author Arnaud Malapert</br> 
- * @since 10 févr. 2009 version 2.0.3</br>
+ * @since 10 fevr 2009 version 2.0.3</br>
  * @version 2.0.3</br>
  */
 public interface IThetaLambdaTree extends IThetaTree {

@@ -51,7 +51,7 @@ import java.util.Set;
 /**
  * Created by IntelliJ IDEA.
  * User: grochart
- * Date: 25 ao?t 2003
+ * Date: 25 aout 2003
  * Time: 17:11:59
  * To change this template use Options | File Templates.
  */

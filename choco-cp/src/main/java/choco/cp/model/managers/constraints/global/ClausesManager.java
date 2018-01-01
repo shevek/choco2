@@ -45,7 +45,7 @@ import java.util.List;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 16 févr. 2009
+* Date : 16 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 */

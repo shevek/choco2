@@ -45,7 +45,7 @@ import choco.kernel.solver.variables.integer.IntDomainVar;
 /**
  * Created by IntelliJ IDEA.
  * User: grochart
- * Date: 26 ao?t 2003
+ * Date: 26 aout 2003
  * Time: 10:47:40
  * To change this template use Options | File Templates.
  */

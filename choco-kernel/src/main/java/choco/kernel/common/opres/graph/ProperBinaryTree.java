@@ -32,7 +32,7 @@ import static choco.kernel.common.util.tools.MathUtils.isPowerOfTwo;
 
 /**
  * @author Arnaud Malapert</br> 
- * @since 5 févr. 2009 version 2.0.3</br>
+ * @since 5 fevr 2009 version 2.0.3</br>
  * @version 2.0.3</br>
  */
 public class ProperBinaryTree implements ITree {

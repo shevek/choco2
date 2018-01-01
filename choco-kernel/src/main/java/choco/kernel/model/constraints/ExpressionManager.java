@@ -36,7 +36,7 @@ import java.util.logging.Logger;
 
 /*
  * User:    charles
- * Date:    20 août 2008
+ * Date:    20 aout 2008
  */
 public interface ExpressionManager {
 

@@ -38,7 +38,7 @@ import java.util.List;
 /*
  * Created by IntelliJ IDEA.
  * User: grochart
- * Date: 23 ao�t 2006
+ * Date: 23 aout 2006
  * Since : Choco 2.0.0
  *
  */

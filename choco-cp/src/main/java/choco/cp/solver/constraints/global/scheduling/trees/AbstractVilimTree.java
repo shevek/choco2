@@ -45,7 +45,7 @@ import choco.kernel.solver.variables.scheduling.ITask;
 
 /**
  * @author Arnaud Malapert</br> 
- * @since 9 févr. 2009 version 2.0.3</br>
+ * @since 9 fevr 2009 version 2.0.3</br>
  * @version 2.0.3</br>
  */
 public abstract class AbstractVilimTree extends ProperBinaryTree implements IVilimTree {

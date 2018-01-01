@@ -52,7 +52,7 @@ import java.util.Iterator;
 /*
  *
  * User:    charles
- * Date:    19 août 2008
+ * Date:    19 aout 2008
  *
  * Black box solver
  */

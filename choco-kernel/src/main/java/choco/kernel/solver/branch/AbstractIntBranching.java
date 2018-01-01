@@ -37,7 +37,7 @@ import java.util.logging.Logger;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 7 août 2009
+* Date : 7 aout 2009
 * Since : Choco 2.1.0
 * Update : Choco 2.1.0
 *

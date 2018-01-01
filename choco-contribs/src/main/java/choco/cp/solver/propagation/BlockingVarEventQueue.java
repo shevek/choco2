@@ -38,7 +38,7 @@ import java.util.Queue;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 3 août 2009
+* Date : 3 aout 2009
 * Since : Choco 2.1.0
 * Update : Choco 2.1.0
 *

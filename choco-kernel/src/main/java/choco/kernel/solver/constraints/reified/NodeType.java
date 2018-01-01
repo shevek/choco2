@@ -30,7 +30,7 @@ package choco.kernel.solver.constraints.reified;
 /*
 * User : charles
 * Mail : cprudhom(a)emn.fr
-* Date : 20 févr. 2009
+* Date : 20 fevr 2009
 * Since : Choco 2.0.1
 * Update : Choco 2.0.1
 */

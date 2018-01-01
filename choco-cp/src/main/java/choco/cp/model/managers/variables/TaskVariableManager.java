@@ -38,7 +38,7 @@ import choco.kernel.solver.constraints.reified.INode;
 import choco.kernel.solver.variables.Var;
 
 /* User:    charles
- * Date:    21 août 2008
+ * Date:    21 aout 2008
  */
 public final class TaskVariableManager implements VariableManager<TaskVariable> {
 
