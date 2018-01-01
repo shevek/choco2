@@ -1,0 +1,3 @@
+rootProject.name='choco2'
+include 'choco-kernel', 'choco-solver', 'choco-cp', // 'choco-ecp',
+	'choco-db', 'choco-parsers', 'choco-cli', 'choco-contribs', 'choco-visu', 'samples'

@@ -1,0 +1,115 @@
+buildscript {
+	repositories {
+		mavenLocal()
+		mavenCentral()
+		jcenter()
+	}
+
+	dependencies {
+		classpath 'org.anarres.gradle:gradle-stdproject-plugin:1.0.8'
+	}
+}
+
+apply plugin: 'org.anarres.stdproject'
+stdproject {
+	description "Choco is a java library for constraint satisfaction problems (CSP), constraint programming (CP) and explanation-based constraint solving (e-CP)."
+}
+
+subprojects {
+	group = "org.anarres.mirrors.choco"
+
+	apply plugin: 'org.anarres.stdmodule'
+	stdmodule {
+		// description "Facebook CompilerWorks Rewriter."
+		author id: 'cprudhomme', name: "Charles Prud'homme", email: 'charles.prudhomme@emn.fr'
+		author id: 'shevek', name: 'Shevek', email: 'github@anarres.org'
+		// license { name: 'BSD' }
+	}
+
+	sourceCompatibility = 1.7
+	animalsniffer {
+		signature = "org.codehaus.mojo.signature:java17:+@signature"
+		skip = true
+	}
+}
+
+project(':choco-kernel') {
+	dependencies {
+		compile "org.jgrapht:jgrapht-core:0.9.1"
+		compile 'net.sf.trove4j:trove4j:2.0.4'
+		compile 'dk.brics:automaton:1.12-1'
+	}
+}
+
+project(':choco-solver') {
+	dependencies {
+		compile project(':choco-kernel')
+	}
+}
+
+project(':choco-cp') {
+	dependencies {
+		compile project(':choco-kernel')
+	}
+}
+
+/*
+project(':choco-ecp') {
+	dependencies {
+		compile project(':choco-kernel')
+		compile project(':choco-cp')
+		compile project(':choco-solver')
+	}
+}
+*/
+
+project(':choco-db') {
+	dependencies {
+		compile project(':choco-kernel')
+		compile 'org.springframework:spring-jdbc:3.2.2.RELEASE'
+	}
+}
+
+project(':choco-parsers') {
+	dependencies {
+		compile 'commons-io:commons-io:2.5'
+		compile project(':choco-kernel')
+		compile project(':choco-cp')
+	}
+}
+
+project(':choco-cli') {
+	dependencies {
+		compile project(':choco-kernel')
+		compile project(':choco-parsers')
+		compile 'args4j:args4j:2.33'
+	}
+}
+
+project(':choco-visu') {
+	dependencies {
+		compile project(':choco-kernel')
+		compile project(':choco-solver')
+		compile project(':choco-cp')
+		compile 'jfree:jfreechart:1.0.13'
+		compile 'traer.physics:physics:3.0'
+		compile 'org.processing:core:2.2.1'
+		compile 'com.lowagie:itext:2.1.7'
+	}
+}
+
+project(':samples') {
+	dependencies {
+		compile project(':choco-cli')
+		compile project(':choco-visu')
+	}
+}
+
+project(':choco-contribs') {
+	dependencies {
+		compile project(':choco-kernel')
+		compile project(':choco-cp')
+		compile project(':choco-parsers')
+		compile project(':samples')
+	}
+}
