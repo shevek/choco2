@@ -664,7 +664,7 @@ public class Configuration extends Properties {
 	 *                               as a boolean.
 	 */
 	@SuppressWarnings({"unchecked"})
-	public <T extends Enum<T>> T readEnum(String key, Class clazz) {
+	public <T extends Enum<T>> T readEnum(String key, Class<T> clazz) {
 		String value = this.getProperty(key);
 		if (value == null) {
 			logOnAbsence(key);

@@ -57,7 +57,7 @@ public final class FileExplorer {
 			HiddenFileFilter.VISIBLE
 	));
 
-	public static final FileFilter FILE_FILTER = new AndFileFilter( Arrays.asList( 
+	public static final IOFileFilter FILE_FILTER = new AndFileFilter( Arrays.asList( 
 			CanReadFileFilter.CAN_READ,
 			FileFileFilter.FILE,
 			HiddenFileFilter.VISIBLE

@@ -131,7 +131,8 @@ public class StoredBipartiteSet<E> extends AbstractList<E> {
 		return tmp;
 	}
 
-	public void sort(Comparator<E> cmp) {
+    @Override
+	public void sort(Comparator<? super E> cmp) {
 		Arrays.sort(elementData, 0, size(), cmp);
 	}
 
