@@ -31,6 +31,8 @@ subprojects {
 		signature = "org.codehaus.mojo.signature:java17:+@signature"
 		skip = true
 	}
+
+	tasks.withType(Javadoc).all { failOnError = false }
 }
 
 project(':choco-kernel') {
